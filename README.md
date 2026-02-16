@@ -5,3 +5,5 @@
 - open the terminal.ps1 in an editor, edit distro to the distro you using and the path then save,
 - create a shortcut too the desktop then change its icon or name or whatever you like,
 - AND VOALAH.
+
+So basically when you run the file, it lunches powershell then it goes into your distro then changes diractory to where your.appimage and runs it on your distro.
